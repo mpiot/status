@@ -10,13 +10,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 126,
-    "timeDay": 68,
-    "timeWeek": 126,
-    "timeMonth": 126,
-    "timeYear": 126,
+    "time": 116,
+    "timeDay": 78,
+    "timeWeek": 116,
+    "timeMonth": 116,
+    "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-08-28": 1165,
+      "2025-08-29": 39,
+      "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1071
     }
@@ -32,13 +33,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 129,
-    "timeDay": 140,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "time": 134,
+    "timeDay": 156,
+    "timeWeek": 134,
+    "timeMonth": 134,
+    "timeYear": 134,
     "dailyMinutesDown": {
-      "2025-08-28": 1165,
+      "2025-08-29": 39,
+      "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1071
     }
@@ -49,18 +51,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vermon.com.ico",
     "slug": "vermon",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
-    "time": 3352,
-    "timeDay": 6629,
-    "timeWeek": 3352,
-    "timeMonth": 3352,
-    "timeYear": 3352,
-    "dailyMinutesDown": {
-      "2025-08-28": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2957,
+    "timeDay": 6644,
+    "timeWeek": 2957,
+    "timeMonth": 2957,
+    "timeYear": 2957,
+    "dailyMinutesDown": {}
   }
 ]
