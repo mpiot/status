@@ -16,7 +16,7 @@
     "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2025-09-02": 659,
+      "2025-09-02": 1167,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
@@ -43,7 +43,7 @@
     "timeMonth": 149,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2025-09-02": 659,
+      "2025-09-02": 1167,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
@@ -58,19 +58,19 @@
     "url": "https://vermon.com",
     "icon": "https://icons.duckduckgo.com/ip3/vermon.com.ico",
     "slug": "vermon",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 2651,
     "timeDay": 991,
     "timeWeek": 2891,
     "timeMonth": 2651,
     "timeYear": 2651,
     "dailyMinutesDown": {
-      "2025-09-02": 10,
+      "2025-09-02": 0,
       "2025-08-29": 23
     }
   }
