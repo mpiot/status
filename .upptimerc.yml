@@ -3,7 +3,7 @@ repo: status
 
 sites:
   - name: MyAvironTours
-    url: https:/my.avirontours.fr
+    url: https://my.avirontours.fr
   - name: AvironTours
     url: https://avirontours.fr
   - name: Vermon
