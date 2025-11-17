@@ -16,7 +16,7 @@
     "timeMonth": 158,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2025-11-17": 43,
+      "2025-11-17": 302,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -119,7 +119,7 @@
     "timeMonth": 174,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2025-11-17": 43,
+      "2025-11-17": 302,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -210,7 +210,7 @@
     "url": "https://vermon.com",
     "icon": "https://icons.duckduckgo.com/ip3/vermon.com.ico",
     "slug": "vermon",
-    "status": "up",
+    "status": "down",
     "uptime": "97.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.89%",
@@ -222,6 +222,7 @@
     "timeMonth": 2433,
     "timeYear": 2506,
     "dailyMinutesDown": {
+      "2025-11-17": 0,
       "2025-11-15": 483,
       "2025-11-14": 360,
       "2025-11-13": 176,
