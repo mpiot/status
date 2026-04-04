@@ -16,7 +16,7 @@
     "timeMonth": 163,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2026-04-04": 60,
+      "2026-04-04": 220,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
@@ -257,7 +257,7 @@
     "timeMonth": 146,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2026-04-04": 60,
+      "2026-04-04": 220,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
@@ -486,9 +486,9 @@
     "url": "https://vermon.com",
     "icon": "https://icons.duckduckgo.com/ip3/vermon.com.ico",
     "slug": "vermon",
-    "status": "up",
+    "status": "down",
     "uptime": "96.24%",
-    "uptimeDay": "94.73%",
+    "uptimeDay": "94.72%",
     "uptimeWeek": "85.36%",
     "uptimeMonth": "95.68%",
     "uptimeYear": "96.24%",
@@ -498,6 +498,7 @@
     "timeMonth": 3886,
     "timeYear": 2386,
     "dailyMinutesDown": {
+      "2026-04-04": 0,
       "2026-04-03": 76,
       "2026-04-02": 160,
       "2026-04-01": 1118,
